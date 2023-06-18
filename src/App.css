@@ -1,0 +1,37 @@
+#root {
+  font-family: 'Montserrat', sans-serif;;
+  margin: 0 auto;
+  padding: 2rem;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+}
+
+.business-card{
+  /* width: 22%; */
+  width: 22.20625rem;
+  margin: auto;
+  border-radius: 4%;
+  background-color: #1A1B21;
+}
+
+.business-card-body{
+  color: #fff;
+  text-align: left;
+  padding: 1.6rem;
+}
+
+.business-card-body h2{
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+.business-card-body{
+  margin-bottom: 0;
+}
+
+.business-card-body-text{
+  font-weight: normal;
+  font-size: 0.7rem;
+}
+

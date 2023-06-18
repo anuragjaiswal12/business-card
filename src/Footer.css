@@ -1,0 +1,25 @@
+.business-card-footer{
+  background-color: #161619;
+  font-size: 2rem;
+  padding: 1rem;
+  border-bottom-left-radius:1rem ;
+  border-bottom-right-radius:1rem ;
+}
+  
+.business-card-footer a{
+  text-decoration: none;
+}
+  
+.business-card-footer a i{
+  color: #161619;
+  background-color: #8D8A97;
+  padding: 0.2rem;
+  border-radius: 8%;
+}
+  
+.business-card-footer a:hover i{
+  background-color: #161619;
+  color: #8D8A97;
+  padding: 0.2rem;
+  border-radius: 8%;
+}
